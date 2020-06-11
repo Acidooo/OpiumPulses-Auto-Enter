@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name        Opiumpulses Auto Enter Script
 // @icon        https://www.opiumpulses.com/favicon.ico
+// @namespace   https://github.com/Acidooo/OpiumPulses-Auto-Enter
 // @author      Acido
 // @description Opium Pulses giveaway Auto joiner
 // @include     http*://www.opiumpulses.com/giveaways*
-// @version     2.0
+// @version     2.1
+// @updateURL   https://github.com/Acidooo/OpiumPulses-Auto-Enter/raw/master/Opiumpulses%20Auto%20Enter%20Script.user.js
+// @downloadURL https://github.com/Acidooo/OpiumPulses-Auto-Enter/raw/master/Opiumpulses%20Auto%20Enter%20Script.user.js
 // @grant       none
 // ==/UserScript==
 
